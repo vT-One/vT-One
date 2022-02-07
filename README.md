@@ -2,10 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/VortualOne?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVortualOne&screen_name=VortualOne)
 
-## I'm a 14 year old kid, that likes to code!!
+## I'm a 14 year old kid, that likes to code!
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to play video games with friends. 
 
 ### Connect with me:
 
