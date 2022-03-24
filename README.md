@@ -1,6 +1,6 @@
 ### Hi there, I'm vT 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/VortualOne?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVortualOne&screen_name=VortualOne)
+[![Twitter Follow](https://img.shields.io/twitter/follow/vTvTOne?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FvTvTOne&screen_name=vTvTOne)
 
 ## I'm a 14 year old kid, that likes to code!
 
